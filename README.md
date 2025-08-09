@@ -9,6 +9,8 @@ Do this:
 5. Open your extension and login.
 6. Let it fire!
 
+Make sure you use chrome only
+
 By @themeht
 x.com/mehditohidi
 
