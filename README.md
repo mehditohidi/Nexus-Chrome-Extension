@@ -8,6 +8,7 @@ Do this:
 4. Choose the folder that contains the files and codes.
 5. Open your extension and login.
 6. Let it fire!
+7. Install on mozilla
 
 By @themeht
 x.com/mehditohidi
